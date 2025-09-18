@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <body>
+    <fieldset>
+    <form lang="POST"action = "login.php">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device width, initial-scale=1.0">
+    <title>Online Shop System</title>
+
+    <h1>Online Shop System</h1>
+
+    <label for="mobilenumber">Mobile number</label>
+    <input type="text" id="mobilenumber" name="mobilenumber"/>
+
+       <label for="password">Password</label>
+    <input type="text" id="password" name="password"/>
+
+<button type="submit">Submit</button>
+
+</fieldset>
+</head>
+</form>
+</body>
+</html>
